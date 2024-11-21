@@ -31,7 +31,7 @@ A simple **Rock-Paper-Scissors** game built with HTML, CSS, and JavaScript. This
 2. Open the `index.html` file in your browser to play the game.
 
 ## Live Demo
-You can play the live version of the game here: [Live Demo](https://amitj10.github.io/Rock-Paper-Scissor/)
+You can play the live version of the game here: [Live Demo](https://amitj10.github.io/Rock_Paper_Scissor/)
 
 
 
